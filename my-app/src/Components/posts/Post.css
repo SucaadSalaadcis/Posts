@@ -1,0 +1,29 @@
+.posts{
+    display: inline-block;
+  
+    /* vertical-align: middle; */
+}
+img{
+    /* filter: grayscale(.4); */
+    transition: 3s;
+    margin-top: 14px;
+    margin-left: 90px;
+    width: 70%;
+   
+}
+img:hover{
+    transform: scale(1.1);
+}
+.post_author{
+    margin-left: 90px;
+    margin-top: 14px;
+ 
+ }
+ .text{
+    margin-left: 90px;
+     margin-top: 7px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .text:hover{
+     color: hotpink;
+ }
